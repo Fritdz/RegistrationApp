@@ -49,7 +49,8 @@
             android:layout_weight="1"
             android:ems="10"
             android:inputType="textPersonName"
-            android:hint="@string/first_name" />
+            android:hint="@string/first_name"
+            />
 
         <EditText
             android:id="@+id/editTextTextPersonName2"
@@ -60,11 +61,17 @@
             android:inputType="textPersonName"
             android:hint="@string/last_name" />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gender:"
+            android:textSize="18sp"/>
 
         <RadioGroup
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal">
+            android:orientation="vertical"
+            android:layout_marginLeft="70dp">
 
             <RadioButton
                 android:id="@+id/radioButton2"
