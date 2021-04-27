@@ -16,4 +16,5 @@
     <string name="pass">Password:</string>
     <string name="log">Login</string>
     <string name="can">Cancel</string>
+    <string name="gender">Gender:</string>
 </resources>
