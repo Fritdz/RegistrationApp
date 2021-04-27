@@ -12,4 +12,8 @@
     <string name="school">School</string>
     <string name="email">Email</string>
     <string name="phone">Phone</string>
+    <string name="name">Name:</string>
+    <string name="pass">Password:</string>
+    <string name="log">Login</string>
+    <string name="can">Cancel</string>
 </resources>
